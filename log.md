@@ -11,11 +11,11 @@
 
 ### Day 2: January 03, 2017 
 
-**Today's Progress**: 
+**Today's Progress**: Working on FCC TicTacToe Game
 
-**Thoughts**: 
+**Thoughts**: Having a hard time thinking of the best way to do this challenge. Trying to cover all test cases without breaking DRY. I find it hard sometimes to know what is an appropriate amount of code to write for a project.
 
-**Link(s) to work**: 
+**Link(s) to work**: [TicTacToe] (https://codepen.io/Moocow89/pen/VKBYZB?editors=0011)
 
 
 
