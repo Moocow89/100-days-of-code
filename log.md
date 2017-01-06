@@ -25,7 +25,7 @@
 
 **Link(s) to work**: [TicTacToe] (https://codepen.io/Moocow89/pen/VKBYZB?editors=0011)
 
-### Day 4: January 04, 2017 
+### Day 4: January 05, 2017 
 
 **Today's Progress**: Working on FCC TicTacToe Game
 
