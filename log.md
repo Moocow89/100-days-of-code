@@ -17,11 +17,19 @@
 
 **Link(s) to work**: [TicTacToe] (https://codepen.io/Moocow89/pen/VKBYZB?editors=0011)
 
-### Day 2: January 04, 2017 
+### Day 3: January 04, 2017 
 
 **Today's Progress**: Working on FCC TicTacToe Game
 
-**Thoughts**: Working on cleaning up my code to make it more readable and impklementing the minimax algorithm in my project.
+**Thoughts**: Working on cleaning up my code to make it more readable and implementing the minimax algorithm in my project.
+
+**Link(s) to work**: [TicTacToe] (https://codepen.io/Moocow89/pen/VKBYZB?editors=0011)
+
+### Day 4: January 04, 2017 
+
+**Today's Progress**: Working on FCC TicTacToe Game
+
+**Thoughts**: Working on breaking up my code into modules. This is something I definately need to work on more so that I can be more comfortable planning out projects in the future.
 
 **Link(s) to work**: [TicTacToe] (https://codepen.io/Moocow89/pen/VKBYZB?editors=0011)
 
