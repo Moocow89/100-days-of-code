@@ -17,6 +17,7 @@
 
 **Link(s) to work**: [TicTacToe] (https://codepen.io/Moocow89/pen/VKBYZB?editors=0011)
 
+
 ### Day 3: January 04, 2017 
 
 **Today's Progress**: Working on FCC TicTacToe Game
@@ -25,6 +26,7 @@
 
 **Link(s) to work**: [TicTacToe] (https://codepen.io/Moocow89/pen/VKBYZB?editors=0011)
 
+
 ### Day 4: January 05, 2017 
 
 **Today's Progress**: Working on FCC TicTacToe Game
@@ -32,4 +34,13 @@
 **Thoughts**: Working on breaking up my code into modules. This is something I definately need to work on more so that I can be more comfortable planning out projects in the future.
 
 **Link(s) to work**: [TicTacToe] (https://codepen.io/Moocow89/pen/VKBYZB?editors=0011)
+
+
+### Day 5: January 06, 2017 
+
+**Today's Progress**: Worked on portfolio website.
+
+**Thoughts:** Updated some css and added my navigation. Also started to work on a personal logo.
+
+**Link to work:** [Portolio Website](https://github.com/Moocow89/Moocow89.github.io/commit/ce3956e385b85e7c5affa5b53adf9e4d5ee47d56)
 
