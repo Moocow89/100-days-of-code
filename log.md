@@ -44,3 +44,20 @@
 
 **Link to work:** [Portolio Website](https://github.com/Moocow89/Moocow89.github.io/commit/ce3956e385b85e7c5affa5b53adf9e4d5ee47d56)
 
+
+### Day 6: January 07, 2017 
+
+**Today's Progress**: Worked on portfolio website.
+
+**Thoughts:** Changed some of the layout and compressed images for web and added them to site.
+
+**Link to work:** [Portolio Website](https://github.com/Moocow89/Moocow89.github.io/commit/f73d01fbf26c5e66d40eecc61f3d21eadd9c2b12)
+
+
+### Day 7: January 09, 2017 
+
+**Today's Progress**: Worked on portfolio website.
+
+**Thoughts:** Working to create carousel for portfolio projects
+
+**Link to work:** [Jquery Carousel](https://codepen.io/Moocow89/pen/PWqLGW?editors=1111)
