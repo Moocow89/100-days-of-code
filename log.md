@@ -61,3 +61,31 @@
 **Thoughts:** Working to create carousel for portfolio projects
 
 **Link to work:** [Jquery Carousel](https://codepen.io/Moocow89/pen/PWqLGW?editors=1111)
+
+
+### Day 8: January 10, 2017 
+
+**Today's Progress**: Worked on portfolio website.
+
+**Thoughts:** Finishing touches on Javascript for the carousel
+
+**Link to work:** [Jquery Carousel](https://codepen.io/Moocow89/pen/PWqLGW?editors=1111)
+
+
+### Day 9: January 11, 2017 
+
+**Today's Progress**: Worked on portfolio website.
+
+**Thoughts:** Worked on different animations to polish up the carousel
+
+**Link to work:** [Jquery Carousel](https://codepen.io/Moocow89/pen/PWqLGW?editors=1111)
+
+### Day 10: January 12, 2017 
+
+**Today's Progress**: Worked on portfolio website.
+
+**Thoughts:** Added the carousel to my website and worked on some of the responsive design 
+
+**Link to work:** [Portfolio Website](https://github.com/Moocow89/Moocow89.github.io/commit/1954fe1d9138790ec51b52c1f5563f3fc172f558)
+
+
