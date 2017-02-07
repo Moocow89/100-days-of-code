@@ -95,3 +95,11 @@
 **Thoughts:** Added automation, transpiling, and budling to my enviorment. Learned about setting up webpack and babel and how to get them to work with the rest of my enviorment and to run on start.
 
 **Link to work:** [JS-DEV-ENV](1d946dff08d7fb233871acd43af52bb1ca717753)
+
+### Day 12: Febuary 06, 2017 
+
+**Today's Progress**: Worked on JavaScript30 #10
+
+**Thoughts:** Learning how to interact with checkboxes more, and using multiple eventlisteners at once.
+
+**Link to work:** [Hold Shift and Check Checkboxes](4dae3be8d4e70a5f474cd320e9f21f88daca61e0)
