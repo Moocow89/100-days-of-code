@@ -103,3 +103,12 @@
 **Thoughts:** Learning how to interact with checkboxes more, and using multiple eventlisteners at once.
 
 **Link to work:** [Hold Shift and Check Checkboxes](4dae3be8d4e70a5f474cd320e9f21f88daca61e0)
+
+
+### Day 13: Febuary 07, 2017 
+
+**Today's Progress**: Worked on JavaScript30 #11, #12, #13
+
+**Thoughts:** Learning how to teack keypresses and work with video players.
+
+**Link to work:** [Custom Bideo Player](58d9dcf517cfbfe79e2859288ddb725a796f3844)
