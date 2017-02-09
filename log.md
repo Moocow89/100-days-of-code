@@ -112,3 +112,12 @@
 **Thoughts:** Learning how to teack keypresses and work with video players.
 
 **Link to work:** [Custom Bideo Player](58d9dcf517cfbfe79e2859288ddb725a796f3844)
+
+
+### Day 14: Febuary 09, 2017 
+
+**Today's Progress**: Nope Api
+
+**Thoughts:** Created a node CRUD api that I can use as a template for futrue projects.
+
+**Link to work:** [Node Api](7dfb5d74f0e11027f730414b5249aea52e0bbb19)
